@@ -15,9 +15,11 @@
 
 ## Requirements
 #### Configuration
-* `.gitignore`
-* `package.json`
-* `README.md`
+* `.gitignore` - file containing your git ignores
+* `package.json` - file containing project `start` and `test` scripts
+* `test` - directory containing scripts
+* `README.md` - simple documentation demonstrating your proficiency with
+  Markdown
 
 #### Feature Tasks
 * create the following directories to organize your code:
